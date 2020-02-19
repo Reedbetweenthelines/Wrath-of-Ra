@@ -1,0 +1,8 @@
+PImage ra_realistic;
+
+void setup(){
+loadImage("ra_realistic.png")
+}
+
+void draw(){
+image(ra_realistic, 0,0);
